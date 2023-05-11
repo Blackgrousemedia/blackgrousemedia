@@ -1,13 +1,3 @@
-.w-backgroundvideo-backgroundvideoplaypausebutton:focus-visible {
-  outline-offset: 2px;
-  border-radius: 50%;
-  outline: 2px solid #3b79c3;
-}
-
-.w-form-formrecaptcha {
-  margin-bottom: 8px;
-}
-
 a {
   color: #fff;
   text-decoration: none;
@@ -998,7 +988,7 @@ a {
 }
 
 .section-dark.with-grade {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), #000 67%);
+  background-image: linear-gradient(rgba(0, 0, 0, .59), #000 67%);
 }
 
 .hero3-text-wrapper {
